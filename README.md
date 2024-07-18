@@ -11,3 +11,8 @@
   -> CSS
   -> Tailwind CSS
 
+# SCREENSHOT
+![WEATHER](https://github.com/user-attachments/assets/772d2125-df3b-4952-bb8b-f7e0c59e2276)
+
+# VISIT THE APPLICATION
+[React-Weather-App](https://react-weather-app-iota-orpin.vercel.app/)
